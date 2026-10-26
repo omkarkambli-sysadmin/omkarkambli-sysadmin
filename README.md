@@ -33,5 +33,5 @@ automation, and enterprise IT operations.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/omkarkambli
+- LinkedIn: https://www.linkedin.com/in/omkar-d-kambli
 - Email: omkar.kambli29@gmail.com
